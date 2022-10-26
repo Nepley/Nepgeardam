@@ -1,0 +1,5 @@
+{
+    "mongodb_ip": "mongodb",
+    "mongodb_port": 27017,
+    "mongodb_db": "NepgeardamMkIII"
+}
